@@ -2,6 +2,7 @@
   "name": "reddit-user-analyser",
   "version": "1.0.0",
   "description": "A Vue.js project",
+  "homepage": "https://conceptancy.com/youfinder",
   "author": "atomiks <na@gmail.com>",
   "private": true,
   "scripts": {
